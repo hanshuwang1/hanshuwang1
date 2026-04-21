@@ -1,15 +1,9 @@
 ## Hi there 👋
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hanshuwang1" alt="GitHub Stats" style="width: 100%;"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" style="width: 100%;"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hanshuwang1" alt="GitHub Stats" style="width: 45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" style="width: 45%;"/>
+  </div>
 </div>
 <!--
 **hanshuwang1/hanshuwang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
