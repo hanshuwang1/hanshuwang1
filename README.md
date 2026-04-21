@@ -1,7 +1,7 @@
 ## Hi there 👋
+![Metrics](/github-metrics.svg)
 <div align="center">
   <div style="display: flex; gap: 20px; justify-content: center;">
-    ![Metrics](/github-metrics.svg)
     <img src="https://github-readme-stats.vercel.app/api?username=hanshuwang1" alt="GitHub Stats" style="width: 45%;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" style="width: 45%;"/>
   </div>
