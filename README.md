@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="/github-metrics.svg" alt="Metrics" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" width="30%" />
 </div>
 <!--
 **hanshuwang1/hanshuwang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
