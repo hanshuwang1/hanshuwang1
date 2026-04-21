@@ -1,9 +1,8 @@
 ## Hi there 👋
-![Metrics](/github-metrics.svg)
-<div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hanshuwang1" alt="GitHub Stats" style="width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" style="width: 45%;"/>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <img src="/github-metrics.svg" alt="Metrics" style="height: auto; max-width: 100%;">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="activity" style="width: 100%;">
   </div>
 </div>
 <!--
