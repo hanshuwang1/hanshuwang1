@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="/github-metrics.svg" alt="Metrics" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanshuwang1" alt="Top Languages" width="30%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4" alt="Top laguages" width="30%">
+  <img src="/github-metrics.svg" alt="Metrics" style="height: 300px; width: auto;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hanshuwang1&langs_count=4&exclude_repo=FlClash-modify" alt="Top laguages" style="height: 300px; width: auto;">
 </div>
 <!--
 **hanshuwang1/hanshuwang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
